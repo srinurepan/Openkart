@@ -1,0 +1,185 @@
+15:36:06.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 15:36:06.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 15:36:06.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 15:36:06.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 15:36:06.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 15:36:06.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 15:36:06.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 15:36:06.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 15:36:06.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 15:36:06.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 15:36:06.581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 15:36:06.629 [main] INFO  testCases.TC003_LoginDDT - ******* Starting TC003_loginDDT ******
+ 15:36:09.414 [main] INFO  testCases.TC003_LoginDDT - ******* finished TC003_loginDDT ******
+ 15:36:09.422 [main] INFO  testCases.TC003_LoginDDT - ******* Starting TC003_loginDDT ******
+ 15:36:20.787 [main] INFO  testCases.TC003_LoginDDT - ******* finished TC003_loginDDT ******
+ 15:36:20.793 [main] INFO  testCases.TC003_LoginDDT - ******* Starting TC003_loginDDT ******
+ 15:36:22.893 [main] INFO  testCases.TC003_LoginDDT - ******* finished TC003_loginDDT ******
+ 15:36:22.911 [main] INFO  testCases.TC003_LoginDDT - ******* Starting TC003_loginDDT ******
+ 15:36:34.498 [main] INFO  testCases.TC003_LoginDDT - ******* finished TC003_loginDDT ******
+ 15:36:34.508 [main] INFO  testCases.TC003_LoginDDT - ******* Starting TC003_loginDDT ******
+ 15:36:39.831 [main] INFO  testCases.TC003_LoginDDT - ******* finished TC003_loginDDT ******
+ 11:19:39.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:19:40.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:22:11.739 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:22:12.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:22:25.751 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:22:28.338 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 11:22:47.285 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:22:47.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:22:57.619 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 11:22:57.747 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 11:22:59.053 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 11:22:59.058 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 11:23:01.174 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 11:23:01.231 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 11:23:11.208 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:23:13.397 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 11:24:02.612 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:24:03.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:24:12.277 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 11:24:12.395 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 11:24:13.485 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 11:24:13.491 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 11:24:15.127 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 11:24:15.172 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 11:24:25.494 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:24:27.969 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 11:25:17.302 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:25:17.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:25:26.319 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 11:25:26.433 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 11:25:27.724 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 11:25:27.733 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 11:25:29.569 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 11:25:29.666 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 11:25:39.270 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:25:42.871 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 11:27:05.625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:27:06.060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:27:15.202 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 11:27:15.317 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 11:27:16.637 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 11:27:16.646 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 11:27:18.532 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 11:27:18.596 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 11:27:27.763 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:27:32.960 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 11:30:31.795 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:30:32.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:32:25.001 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Grouping.xml"
+ 11:32:25.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Grouping.xml
+
+ 11:32:33.497 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 11:32:33.629 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 11:32:35.588 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 11:32:35.593 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 11:32:37.211 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 11:32:37.299 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 11:32:46.427 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 11:32:49.375 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 13:23:35.350 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 13:23:35.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Master.xml
+
+ 13:24:12.471 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 13:24:12.920 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 13:24:14.317 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 13:24:14.321 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 13:24:16.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 13:24:17.114 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 13:24:29.389 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 13:24:31.708 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 13:28:59.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 13:28:59.768 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\Master.xml
+
+ 13:29:10.363 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 13:29:10.505 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 13:29:11.788 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 13:29:11.794 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 13:29:14.247 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 13:29:14.310 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 13:29:26.462 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 13:29:28.751 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 12:59:25.818 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\crossbrowsertest.xml"
+ 12:59:26.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse Workspace\Openkart\crossbrowsertest.xml
+
+ 13:00:03.085 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 13:00:03.542 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 13:00:05.138 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 13:00:05.205 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 13:00:08.041 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 13:00:11.342 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 13:00:28.193 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 13:00:29.195 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 13:00:30.064 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 13:00:30.067 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 13:00:32.841 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 13:00:33.102 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:21:46.819 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 08:22:33.822 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 08:22:34.187 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 08:22:37.339 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 08:22:37.344 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 08:22:40.980 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 08:22:41.042 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:23:02.929 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 08:27:15.006 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 08:27:24.838 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 08:27:24.946 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 08:27:26.977 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 08:27:26.981 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 08:27:28.719 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 08:27:28.776 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:27:40.509 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 08:27:42.461 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 08:28:47.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\master.xml"
+ 08:28:56.149 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 08:28:56.284 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 08:28:57.789 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 08:28:57.804 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 08:28:59.514 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 08:28:59.582 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:29:12.478 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 08:29:16.871 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 08:49:27.970 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 08:49:38.110 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 08:49:38.227 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 08:49:39.428 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 08:49:39.430 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 08:49:41.085 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 08:49:41.172 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:49:48.962 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 08:49:52.031 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 08:54:49.554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Openkart\Master.xml"
+ 08:54:59.126 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_ Test
+ 08:54:59.239 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link
+ 08:55:00.607 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link
+ 08:55:00.612 [main] INFO  testCases.TC001_AccountRegistrationTest - *** provide customer details
+ 08:55:02.402 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** validating expected message
+ 08:55:02.468 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Test Finished ****
+ 08:55:13.214 [main] INFO  testCases.TC002_LoginPageTest - **** testcase2 started*****
+ 08:55:15.639 [main] INFO  testCases.TC002_LoginPageTest - **** Testcase2 finished
+ 
